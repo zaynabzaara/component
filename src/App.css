@@ -1,0 +1,31 @@
+.me{
+  background-color: rgb(50, 45, 65);
+  margin: 40px 25%;
+  border: 2px solid rgb(180, 24, 76);
+  width: 30%;
+  border-radius: 30px;
+}
+
+.FullName{
+  border: 2px rgb(38, 184, 25) solid;
+  border-radius: 15px;
+  text-align: center;
+  margin: 10px;
+  padding: 15px;
+  background-color: rgba(80, 82, 74, 0.096);
+  color: rgb(250, 520 , 250);
+}
+
+.Address{ 
+  text-align: center;
+  border-left: 5px rgb(247, 243, 243) solid;
+  color: rgb(255, 255, 255);
+  margin: 10px 55px;
+}
+
+.ProfilePhoto{
+  display: block;
+  width: 14px;
+  padding:10px;
+ margin:40px 200px ;
+}
